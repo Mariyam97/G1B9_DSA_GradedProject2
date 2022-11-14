@@ -20,7 +20,7 @@ public class RightSkew {
 
 		Node temp = new Node();
 
-	    temp.val = ele;
+	        temp.val = ele;
 
 		return temp;
 
